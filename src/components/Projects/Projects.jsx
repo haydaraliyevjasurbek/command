@@ -11,9 +11,9 @@ import p4a from "../../assets/images/chizmalar/chizma4.webp";
 import p5a from "../../assets/images/chizmalar/chizma5.webp";
 import p6a from "../../assets/images/chizmalar/chizma6.webp";
 import p7a from "../../assets/images/chizmalar/chizma7.webp";
-import p8a from "../../assets/images/chizmalar/chizma8.webp";
-import p9a from "../../assets/images/chizmalar/chizma9.webp";
-import p10a from "../../assets/images/chizmalar/chizma10.webp";
+import p8a from "../../assets/images/chizmalar/chizma8.png";
+import p9a from "../../assets/images/chizmalar/chizma9.png";
+import p10a from "../../assets/images/chizmalar/chizma10.png";
 
 import p1b from "../../assets/images/projects/1.webp";
 import p2b from "../../assets/images/projects/2.webp";

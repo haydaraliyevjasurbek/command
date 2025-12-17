@@ -1,0 +1,270 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.8rem 2rem;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 999;
+  background-color: #283b89;
+  color: #fff;
+}
+.navbar::before{
+  background: linear-gradient(180deg,rgba(0, 0, 0, 1) 0%, rgba(255, 255, 255, 0.69) 100%);
+}
+/* =======================
+   LOGO BASE
+======================= */
+.logo {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  gap: 0.5rem;
+}
+
+/* LOGO IMAGE */
+.logo img {
+  height: 48px;              /* desktop default */
+  width: auto;
+  object-fit: contain;
+  transition: all 0.3s ease;
+  user-select: none;
+  pointer-events: none;
+}
+
+/* LOGO TEXT (agar keyin qo‘shilsa) */
+.logo span {
+  font-weight: 700;
+  font-size: 1.2rem;
+  color: #fff;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+}
+
+/* =======================
+   RESPONSIVE
+======================= */
+
+/* Large tablet */
+@media (max-width: 1200px) {
+  .logo img {
+    height: 42px;
+  }
+
+  .logo span {
+    font-size: 1.1rem;
+  }
+}
+
+/* Tablet */
+@media (max-width: 991px) {
+  .logo img {
+    height: 36px;
+  }
+
+  .logo span {
+    font-size: 1rem;
+  }
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .logo img {
+    height: 32px;
+  }
+
+  .logo span {
+    font-size: 0.9rem;
+  }
+}
+
+
+/* DESKTOP MENU */
+.desktop-menu {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.tabs-wrapper {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.tab {
+  position: relative;
+  cursor: pointer;
+  padding: 0.5rem 0;
+  transition: color 0.2s; 
+}
+.tab:hover {
+  /* padding: 0.5rem 1rem; */
+  /* border-radius: 20px; */
+  /* transition: all 0.5s; */
+  color: #000000;
+  /* background-color: #fff; */
+} 
+.tab-label {
+  display: inline-block;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.active-tab {
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  height: 3px;
+  background-color: #fff;
+  border-radius: 3px;
+}
+
+/* DESKTOP LANGUAGE */
+.lang-switcher {
+  position: relative;
+}
+
+.lang-btn {
+  background-color: #283b89;
+  color: #fff;
+  border: none;
+  padding: 0.4rem 0.8rem;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+
+.lang-btn:hover {
+  transition: all 0.5s;
+  color: #283b89;
+  background-color: #fff;
+}
+
+.lang-list {
+  position: absolute;
+  top: 120%;
+  left: 0;
+  background-color: #0352c9;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  min-width: 60px;
+  z-index: 999;
+}
+
+.lang-item {
+  padding: 0.4rem 0.8rem;
+  color: #e0e0e0;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.lang-item:hover {
+  transition: all 0.5s;
+  color: #283b89;
+  background-color: #fff;
+}
+
+.lang-item.active {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #fff;
+}
+
+/* MOBILE MENU */
+.burger {
+  display: none;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.mobile-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background-color: #0352c9;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 0;
+  gap: 0.5rem;
+}
+
+.mobile-item {
+  padding: 0.75rem 2rem;
+  color: #e0e0e0;
+  font-weight: 500;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.mobile-item.active {
+  color: #fff;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.mobile-lang-toggle {
+  padding: 0 2rem;
+  margin-top: 0.5rem;
+  position: relative;
+}
+
+.mobile-lang-btn {
+  width: 100%;
+  padding: 0.5rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-weight: 500;
+  cursor: pointer;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mobile-lang-btn:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.mobile-lang-list {
+  margin-top: 0.25rem;
+  background-color: #0352c9;
+  border-radius: 5px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.mobile-lang-item {
+  padding: 0.5rem 1rem;
+  color: #e0e0e0;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.mobile-lang-item.active {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #fff;
+}
+
+.mobile-lang-item:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* RESPONSIVE */
+@media (max-width: 991px) {
+  .desktop-menu {
+    display: none;
+  }
+  .burger {
+    display: block;
+  }
+  .logo img {
+    height: 30px;
+  }
+}

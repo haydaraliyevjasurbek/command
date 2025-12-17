@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "uz": "Turar joy majmuasi A",
+      "ru": "Жилой комплекс А",
+      "en": "Residential Complex A"
+    },
+    "description": {
+      "uz": "Zamonaviy turar joy loyihasi A",
+      "ru": "Современный жилой проект А",
+      "en": "Modern residential project A"
+    },
+    "price": {
+      "uz": "500 000 000 UZS",
+      "ru": "500 000 000 сум",
+      "en": "$40,000"
+    }
+  },
+  {
+    "id": 2,
+    "title": {
+      "uz": "Turar joy majmuasi B",   
+      "ru": "Жилой комплекс Б",
+      "en": "Residential Complex B"
+    },
+    "description": {
+      "uz": "Zamonaviy turar joy loyihasi B",
+      "ru": "Современный жилой проект Б",
+      "en": "Modern residential project B"
+    },
+    "price": {
+      "uz": "750 000 000 UZS",
+      "ru": "750 000 000 сум",
+      "en": "$60,000"
+    }
+  },
+  {
+    "id": 3,
+    "title": {
+      "uz": "Turar joy majmuasi C",
+      "ru": "Жилой комплекс В",
+      "en": "Residential Complex C"
+    },
+    "description": {
+      "uz": "Zamonaviy turar joy loyihasi C",
+      "ru": "Современный жилой проект В",
+      "en": "Modern residential project C"
+    },
+    "price": {
+      "uz": "620 000 000 UZS",
+      "ru": "620 000 000 сум",
+      "en": "$50,000"
+    }
+  },
+  {
+    "id": 4,
+    "title": {
+      "uz": "Turar joy majmuasi D",
+      "ru": "Жилой комплекс Г",
+      "en": "Residential Complex D"
+    },
+    "description": {
+      "uz": "Zamonaviy turar joy loyihasi D",
+      "ru": "Современный жилой проект Г",
+      "en": "Modern residential project D"
+    },
+    "price": {
+      "uz": "880 000 000 UZS",
+      "ru": "880 000 000 сум",
+      "en": "$70,000"
+    }
+  },
+  {
+    "id": 5,
+    "title": {
+      "uz": "Turar joy majmuasi E",
+      "ru": "Жилой комплекс Д",
+      "en": "Residential Complex E"
+    },
+    "description": {
+      "uz": "Zamonaviy turar joy loyihasi E",
+      "ru": "Современный жилой проект Д",
+      "en": "Modern residential project E"
+    },
+    "price": {
+      "uz": "1 000 000 000 UZS",
+      "ru": "1 000 000 000 сум",
+      "en": "$80,000"
+    }
+  },
+  {
+    "id": 6,
+    "title": {
+      "uz": "Turar joy majmuasi F",
+      "ru": "Жилой комплекс Е",
+      "en": "Residential Complex F"
+    },
+    "description": {
+      "uz": "Zamonaviy turar joy loyihasi F",
+      "ru": "Современный жилой проект Е",
+      "en": "Modern residential project F"
+    },
+    "price": {
+      "uz": "540 000 000 UZS",
+      "ru": "540 000 000 сум",
+      "en": "$42,000"
+    }
+  },
+  {
+    "id": 7,
+    "title": {
+      "uz": "Turar joy majmuasi G",
+      "ru": "Жилой комплекс Ж",
+      "en": "Residential Complex G"
+    },
+    "description": {
+      "uz": "Zamonaviy turar joy loyihasi G",
+      "ru": "Современный жилой проект Ж",
+      "en": "Modern residential project G"
+    },
+    "price": {
+      "uz": "710 000 000 UZS",
+      "ru": "710 000 000 сум",
+      "en": "$55,000"
+    }
+  },
+  {
+    "id": 8,
+    "title": {
+      "uz": "Turar joy majmuasi H",
+      "ru": "Жилой комплекс З",
+      "en": "Residential Complex H"
+    },
+    "description": {
+      "uz": "Zamonaviy turar joy loyihasi H",
+      "ru": "Современный жилой проект З",
+      "en": "Modern residential project H"
+    },
+    "price": {
+      "uz": "960 000 000 UZS",
+      "ru": "960 000 000 сум",
+      "en": "$76,000"
+    }
+  },
+  {
+    "id": 9,
+    "title": {
+      "uz": "Turar joy majmuasi I",
+      "ru": "Жилой комплекс И",
+      "en": "Residential Complex I"
+    },
+    "description": {
+      "uz": "Zamonaviy turar joy loyihasi I",
+      "ru": "Современный жилой проект И",
+      "en": "Modern residential project I"
+    },
+    "price": {
+      "uz": "830 000 000 UZS",
+      "ru": "830 000 000 сум",
+      "en": "$65,000"
+    }
+  },
+  {
+    "id": 10,
+    "title": {
+      "uz": "Turar joy majmuasi J",
+      "ru": "Жилой комплекс Й",
+      "en": "Residential Complex J"
+    },
+    "description": {
+      "uz": "Zamonaviy turar joy loyihasi J",
+      "ru": "Современный жилой проект Й",
+      "en": "Modern residential project J"
+    },
+    "price": {
+      "uz": "1 200 000 000 UZS",
+      "ru": "1 200 000 000 сум",
+      "en": "$95,000"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+.contact-section {
+  scroll-margin-top: 70px;
+  background-color: #f8f9fa;
+}
+
+.form-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.form-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+}
+
+.info-card {
+  background-color: #ffffff;
+}
+
+@media (max-width: 991px) {
+  .contact-section {
+    padding: 2rem 1rem;
+  }
+}

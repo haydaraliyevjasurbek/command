@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "icon": "🏢",
+    "title": {
+      "uz": "Turar-joy qurilishi",
+      "ru": "Жилищное строительство",
+      "en": "Residential Construction"
+    },
+    "desc": {
+      "uz": "Ko‘p qavatli va yakka tartibdagi zamonaviy turar-joy binolarini loyihalash va qurish",
+      "ru": "Проектирование и строительство современных многоэтажных и частных жилых домов",
+      "en": "Design and construction of modern multi-storey and private residential buildings"
+    }
+  },
+  {
+    "id": 2,
+    "icon": "🏭",
+    "title": {
+      "uz": "Sanoat inshootlari",
+      "ru": "Промышленные объекты",
+      "en": "Industrial Facilities"
+    },
+    "desc": {
+      "uz": "Zavod, omborxona va ishlab chiqarish binolarini professional darajada qurish",
+      "ru": "Профессиональное строительство заводов, складов и производственных зданий",
+      "en": "Professional construction of factories, warehouses, and production buildings"
+    }
+  },
+  {
+    "id": 3,
+    "icon": "🏫",
+    "title": {
+      "uz": "Jamoat obyektlari",
+      "ru": "Общественные объекты",
+      "en": "Public Facilities"
+    },
+    "desc": {
+      "uz": "Maktab, shifoxona va ijtimoiy ahamiyatga ega bino-inshootlar qurilishi",
+      "ru": "Строительство школ, больниц и социально значимых объектов",
+      "en": "Construction of schools, hospitals, and socially significant buildings"
+    }
+  },
+  {
+    "id": 4,
+    "icon": "🛣️",
+    "title": {
+      "uz": "Infratuzilma ishlari",
+      "ru": "Инфраструктурные работы",
+      "en": "Infrastructure Works"
+    },
+    "desc": {
+      "uz": "Yo‘l, ko‘prik va muhandislik kommunikatsiyalarini barpo etish",
+      "ru": "Строительство дорог, мостов и инженерных коммуникаций",
+      "en": "Construction of roads, bridges, and engineering communications"
+    }
+  },
+  {
+    "id": 5,
+    "icon": "🎨",
+    "title": {
+      "uz": "Loyihalash va dizayn",
+      "ru": "Проектирование и дизайн",
+      "en": "Design and Planning"
+    },
+    "desc": {
+      "uz": "Arxitektura va muhandislik loyihalarini zamonaviy yechimlar asosida ishlab chiqish",
+      "ru": "Разработка архитектурных и инженерных проектов с современными решениями",
+      "en": "Development of architectural and engineering projects using modern solutions"
+    }
+  },
+  {
+    "id": 6,
+    "icon": "🚚",
+    "title": {
+      "uz": "Logistika xizmatlari",
+      "ru": "Логистические услуги",
+      "en": "Logistics Services"
+    },
+    "desc": {
+      "uz": "Qurilish materiallarini tezkor va ishonchli yetkazib berish xizmatlari",
+      "ru": "Быстрая и надежная доставка строительных материалов",
+      "en": "Fast and reliable delivery of construction materials"
+    }
+  }
+]

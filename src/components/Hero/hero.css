@@ -1,0 +1,16 @@
+#hero {
+  min-height: 100vh;
+}
+/* Tablet */
+@media (max-width: 992px) {
+  #hero {
+    min-height: 85vh;
+  }
+}
+
+/* Mobile */
+@media (max-width: 576px) {
+  #hero {
+    min-height: 70vh;
+  }
+}

@@ -7,7 +7,7 @@
   width: 100%;
   top: 0;
   z-index: 999;
-  background-color: #283b89;
+  background-color: #0D6EFD;
   color: #fff;
 }
 .navbar::before{
@@ -126,7 +126,7 @@
 }
 
 .lang-btn {
-  background-color: #283b89;
+  background-color: #0D6EFD;
   color: #fff;
   border: none;
   padding: 0.4rem 0.8rem;
@@ -139,7 +139,7 @@
 
 .lang-btn:hover {
   transition: all 0.5s;
-  color: #283b89;
+  color: #0D6EFD;
   background-color: #fff;
 }
 
@@ -147,7 +147,7 @@
   position: absolute;
   top: 120%;
   left: 0;
-  background-color: #0352c9;
+  background-color: #0D6EFD;
   border-radius: 5px;
   display: flex;
   flex-direction: column;
@@ -164,7 +164,7 @@
 
 .lang-item:hover {
   transition: all 0.5s;
-  color: #283b89;
+  color: #0D6EFD;
   background-color: #fff;
 }
 
@@ -185,7 +185,7 @@
   top: 100%;
   left: 0;
   width: 100%;
-  background-color: #0352c9;
+  background-color: #0D6EFD;
   display: flex;
   flex-direction: column;
   padding: 1rem 0;
@@ -233,7 +233,7 @@
 
 .mobile-lang-list {
   margin-top: 0.25rem;
-  background-color: #0352c9;
+  background-color: #0D6EFD;
   border-radius: 5px;
   overflow: hidden;
   display: flex;

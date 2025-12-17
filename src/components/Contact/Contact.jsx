@@ -8,7 +8,7 @@ const translations = {
   uz: {
     sectionTitle: "Biz bilan bog'laning",
     formTitle: "Xabar yuboring",
-    infoTitle: "Aloqa ma'lumotlari",
+    infoTitle: "Aloqa ma'lumotlari",  
     placeholders: {
       name: "Ismingiz",
       email: "Email",

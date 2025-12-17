@@ -4,7 +4,7 @@ Bu loyiha **Khairon Construction** kompaniyasi uchun yaratilgan responsive veb-s
 
 ## Demo
 > Demo havolasi (agar mavjud bo‘lsa)  
-> [https://your-demo-link.com](https://your-demo-link.com)
+> [[https://your-demo-link.com](https://khairon-test.netlify.app/)]([https://your-demo-link.com](https://khairon-test.netlify.app/))
 
 ## Texnologiyalar
 - React.js

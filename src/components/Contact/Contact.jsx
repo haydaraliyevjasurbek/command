@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Form, Button, Card, Row, Col, Container } from "react-bootstrap";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import "./contact.css";
+import "./Contact.css";
 
 const translations = {
   uz: {

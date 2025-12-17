@@ -7,15 +7,36 @@ import data from "../../db/projects.json";
 import p1a from "../../assets/images/chizmalar/chizma1.webp";
 import p2a from "../../assets/images/chizmalar/chizma2.webp";
 import p3a from "../../assets/images/chizmalar/chizma3.webp";
+import p4a from "../../assets/images/chizmalar/chizma4.webp";
+import p5a from "../../assets/images/chizmalar/chizma5.webp";
+import p6a from "../../assets/images/chizmalar/chizma6.webp";
+import p7a from "../../assets/images/chizmalar/chizma7.webp";
+import p8a from "../../assets/images/chizmalar/chizma8.webp";
+import p9a from "../../assets/images/chizmalar/chizma9.webp";
+import p10a from "../../assets/images/chizmalar/chizma10.webp";
 
 import p1b from "../../assets/images/projects/1.webp";
 import p2b from "../../assets/images/projects/2.webp";
 import p3b from "../../assets/images/projects/3.webp";
+import p4b from "../../assets/images/projects/4.webp";
+import p5b from "../../assets/images/projects/5.webp";
+import p6b from "../../assets/images/projects/6.webp";
+import p7b from "../../assets/images/projects/7.webp";
+import p8b from "../../assets/images/projects/8.webp";
+import p9b from "../../assets/images/projects/9.webp";
+import p10b from "../../assets/images/projects/10.webp";
 
 const images = [
   { img1: p1a, img2: p1b },
   { img1: p2a, img2: p2b },
   { img1: p3a, img2: p3b },
+  { img1: p4a, img2: p4b },
+  { img1: p5a, img2: p5b },
+  { img1: p6a, img2: p6b },
+  { img1: p7a, img2: p7b },
+  { img1: p8a, img2: p8b },
+  { img1: p9a, img2: p9b },
+  { img1: p10a, img2: p10b },
 ];
 
 const sectionTitles = {
